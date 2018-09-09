@@ -1,0 +1,1 @@
+![](Micro_News_047_Page078_1991_05.jpg)
