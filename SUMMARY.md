@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [](BLANK.md)
 * [Publicité](misc/pub1.md)
 * [La NEO•GEO en 1990](machines/index.md)
     * [Page Tilt](machines/PageTilt/1.md)
