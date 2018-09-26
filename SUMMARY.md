@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Les jeux](games/index.md)
-* [1990](games/1990.md)
 * [La NEO•GEO en 1990](machines/index.md)
     * [Page Tilt](machines/PageTilt/1.md)
     * [La Rolls Arrive! (1/4)](machines/La Rolls Arrive!/1.md)
@@ -74,7 +73,6 @@
     * [MiniTest - Consoles News](games/1990/Top Players Golf/2.md)
     * [Preview - MicroNews](games/1990/Top Players Golf/3.md)
 * [Publicité](misc/pub3.md)
-* [1991](games/1991.md)
 * [2020 Super Baseball](games/1991/2020 Superbaseball/index.md)
     * [Test - Generation4](games/1991/2020 Superbaseball/6.md)
     * [Test - Player One (1/2)](games/1991/2020 Superbaseball/1.md)
