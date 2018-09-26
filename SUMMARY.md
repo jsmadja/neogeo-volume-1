@@ -73,6 +73,7 @@
     * [MiniTest - Consoles News](games/1990/Top Players Golf/2.md)
     * [Preview - MicroNews](games/1990/Top Players Golf/3.md)
 * [Publicité](misc/pub3.md)
+* [1991](games/1991.md)
 * [2020 Super Baseball](games/1991/2020 Superbaseball/index.md)
     * [Test - Generation4](games/1991/2020 Superbaseball/6.md)
     * [Test - Player One (1/2)](games/1991/2020 Superbaseball/1.md)
