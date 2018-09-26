@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [](BLANK.md)
-* [](BLANK.md)
+* [Les jeux](games/index.md)
+* [1990](games/1990.md)
 * [La NEO•GEO en 1990](machines/index.md)
     * [Page Tilt](machines/PageTilt/1.md)
     * [La Rolls Arrive! (1/4)](machines/La Rolls Arrive!/1.md)
@@ -17,8 +17,6 @@
     * [Dossier MicroNews (2/4)](machines/DossierMicroNews/2.md)
     * [Dossier MicroNews (3/4)](machines/DossierMicroNews/3.md)
     * [Dossier MicroNews (4/4)](machines/DossierMicroNews/4.md)
-* [Les jeux](games/index.md)
-* [1990](games/1990.md)
 * [Baseball Stars Professional](games/1990/Baseball Stars Professional/index.md)
     * [Test - Joystick (1/2)](games/1990/Baseball Stars Professional/1.md)
     * [Test - Joystick (2/2)](games/1990/Baseball Stars Professional/2.md)
